@@ -606,10 +606,11 @@ body {
 
 .right-col-stack{
   background-color: var(--white);
+  border-radius: 1rem;
 }
 .stats-around-image-card {
   background: #ffffff;
-  border-radius: 20px;
+  border-radius: 1rem;
   padding: 18px;
   display: flex;
   flex-direction: column;
